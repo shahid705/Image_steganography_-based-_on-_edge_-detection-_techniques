@@ -1,2 +1,4 @@
-# Image_steganography_-based-_on-_edge_-detection-_techniques
-Image steganography based on canny,sobal,prewitt edge detection technique__
+# Image_steganography_based_on_edge_detection_techniques.
+Image steganography based on canny,sobal,prewitt edge detection technique.
+
+
